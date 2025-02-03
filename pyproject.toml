@@ -1,0 +1,15 @@
+[project]
+name = "kiss-mqtt-client-private-pki"
+version = "0.1.0"
+description = "Proof of concept MQTT server with self-signed certificates"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "paho-mqtt>=2.1.0",
+    "python-dotenv>=1.0.1",
+]
+authors = [
+    { name = "Oriol Rius", email = "oriol@joor.net" },
+]
+keywords = ["mqtt", "ssl", "tls", "iot"]
+license = "MIT"
