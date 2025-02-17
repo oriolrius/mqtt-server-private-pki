@@ -1,5 +1,5 @@
 [project]
-name = "kiss-mqtt-client-private-pki"
+name = "mqtt-server-private-pki"
 version = "0.1.0"
 description = "Proof of concept MQTT server with self-signed certificates"
 readme = "README.md"
